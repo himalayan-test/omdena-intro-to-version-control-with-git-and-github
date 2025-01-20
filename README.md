@@ -7,5 +7,5 @@ The Foundation Course provides live online lectures focused on foundational AI c
 
     Goal: Equip learners with foundational data science and AI skills.
     Core Topics: Python programming, data collection, exploratory data analysis (EDA), data visualization, machine learning, and web application development.
-    Learning Outcomes: By the end of this phase, learners will develop a Data Science Portfolio Web Application showcasing their acquired skills.
+    Learning Outcomes: By the end of this phase, learners will develop a Data Science Portfolio Web Application showcasing their acquired skills. Further description here
     Assessments: Quizzes, assignments, and a comprehensive end-to-end data science project.
